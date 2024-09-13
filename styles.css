@@ -35,7 +35,7 @@ div {
 
 .videosimagens {
     border: solid 4px whitesmoke;
-    background: black;
+    background: yellow;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -58,7 +58,7 @@ h1 {
 
 p {
     font-size: 30px;
-    color: yellow;
+    color: green;
 }
 
 img {
@@ -68,10 +68,10 @@ img {
 
 .videos-imagens img:hover{
     opacity: 0.5;
-    border: 2px solid yellow;
+    border: 2px solid red;
 }
 .videosimagens h2 {
-    color: yellow;
+    color: red;
     font-size: 30px;
     text-align: center;
 }
